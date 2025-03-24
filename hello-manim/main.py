@@ -2,7 +2,7 @@ from manim import *
 
 class FirstMessage(Scene):
     def construct(self):
-        txt = Text("STATUS: With testicles", font_size=120)
+        txt = Text("STATUS: With testicles", font_size=70)
         self.play(Write(txt), run_time=2)
         self.play(txt.animate.to_edge(UP).scale(0.6))
         self.pause()

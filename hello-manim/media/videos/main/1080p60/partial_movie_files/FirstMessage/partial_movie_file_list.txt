@@ -1,7 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/3977891868_1347242712_223132457.mp4'
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1661392293_1993779321.mp4'
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1754310298_226402618.mp4'
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_897410376_3061631628.mp4'
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_2264955535_2394935072.mp4'
-file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1734327179_3933401193.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/3977891868_3402636955_223132457.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1512867778_4086837431.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1754310298_1234329973.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_897410376_1780651368.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_2264955535_1543288226.mp4'
+file 'file:C:/Users/user/Documents/GitHub/manim-stuff/hello-manim/media/videos/main/1080p60/partial_movie_files/FirstMessage/2852726489_1734327179_681934660.mp4'
